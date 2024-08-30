@@ -28,6 +28,10 @@ gcc <program.c> -o <output_file>
 ./<output_file> <arguments ....>
 ```
 
+## Terminal Setup
+
+For plugins and customisation of your command shell: https://www.josean.com/posts/terminal-setup
+
 ## VSCode 
 1. Go to: https://code.visualstudio.com/download
 2. Select .zip folder for Apple Silicon or Intel Chip as per your Mac.
