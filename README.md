@@ -46,7 +46,7 @@ gcc <program.c> -o <output_file>
 5. In VSCode, create demo file and Select Interpreter if needed. (Shift+Cmd+P).
 
 ## Git and GitHub
-1. Clone a repository: git clone https://github.com/user/repository.git
+1. Clone a repository: `git clone <repo-link>`
 2. In case you are creating 
 3. Check status: `git status`
 4. Make changes to files.
