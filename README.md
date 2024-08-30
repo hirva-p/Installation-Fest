@@ -73,4 +73,7 @@ git add <file1> <file2>    // add files individually
 6. Open Terminal, run `docker --version` to check if successfully installed. 
 7. Run: `docker pull hello-world`
 8. `docker run hello-world`
-9. If it is visible your docker is installed successfully. 
+9. If it is visible your docker is installed successfully.
+
+## References
+You can refer to the [youtube video](https://www.youtube.com/watch?v=2_ZbslLnshw), for more information. 
