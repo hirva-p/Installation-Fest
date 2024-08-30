@@ -9,13 +9,15 @@
 3. Installation Successful
 4. Copy and Run two commands as next steps displayed post installation.
 
-## Mingw-64 Install
-1. In terminal: 
+## Clang
+1. No need for installation if xcode tools are already installed, In terminal: 
 ```
-brew install mingw-w64
+clang --version              // to check if the requirements are met
+clang <program.c> -o <output_file>
+./<output_file> <arguments ....>
 ```
 
-### gcc (Alternative)
+## gcc (Alternative)
 1. In terminal: 
 ```
 brew install gcc
